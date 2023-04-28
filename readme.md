@@ -10,6 +10,8 @@ Asset by https://sketchfab.com/motionpix on licence: https://creativecommons.org
 ## VTO Module
 
 Basic implementation works as follows:
+![image](https://user-images.githubusercontent.com/8258455/235269056-a7148604-4081-4568-bcbe-605c640d2dea.png)
+
 
 ## Exporting the asset from ThreeKit
 
