@@ -7,6 +7,10 @@ To display 3d asset (GLB file) @react-three/fiber was used.
 
 Asset by https://sketchfab.com/motionpix on licence: https://creativecommons.org/licenses/by/4.0/legalcode
 
+## Demo
+![screencast 2023-04-29 01-31-42](https://user-images.githubusercontent.com/8258455/235269661-a08f8c5f-81ce-4c88-acc6-ef7b217d2895.gif)
+
+
 ## VTO Module
 
 Basic implementation works as follows:
